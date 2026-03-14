@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.calcolatrice_boccoli"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.calcolatrice_boccoli"
