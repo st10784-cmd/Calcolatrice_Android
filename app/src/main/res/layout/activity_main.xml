@@ -9,7 +9,7 @@
     android:paddingBottom="24dp"
     android:gravity="bottom">
 
-    <TextView
+    <EditText
         android:id="@+id/tvResult"
         android:layout_width="match_parent"
         android:layout_height="0dp"
